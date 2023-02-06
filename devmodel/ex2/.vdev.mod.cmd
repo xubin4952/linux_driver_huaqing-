@@ -1,0 +1,1 @@
+cmd_/home/opnous/work/learning/huaqing_linux_driver/devmodel/ex2/vdev.mod := { echo  /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex2/vdev.o;  echo; } > /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex2/vdev.mod

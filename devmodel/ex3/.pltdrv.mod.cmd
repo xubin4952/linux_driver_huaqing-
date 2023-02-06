@@ -1,0 +1,1 @@
+cmd_/home/opnous/work/learning/huaqing_linux_driver/devmodel/ex3/pltdrv.mod := { echo  /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex3/pltdrv.o;  echo; } > /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex3/pltdrv.mod

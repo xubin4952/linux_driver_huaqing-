@@ -1,0 +1,1 @@
+cmd_/home/opnous/work/learning/huaqing_linux_driver/devmodel/ex2/vbus.mod := { echo  /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex2/vbus.o;  echo; } > /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex2/vbus.mod

@@ -1,0 +1,1 @@
+cmd_/home/opnous/work/learning/huaqing_linux_driver/devmodel/ex5/fsdev.mod := { echo  /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex5/fsdev.o;  echo; } > /home/opnous/work/learning/huaqing_linux_driver/devmodel/ex5/fsdev.mod

@@ -1,0 +1,1 @@
+cmd_/home/opnous/work/learning/huaqing_linux_driver/chrdev/ex1/vser.mod := { echo  /home/opnous/work/learning/huaqing_linux_driver/chrdev/ex1/vser.o;  echo; } > /home/opnous/work/learning/huaqing_linux_driver/chrdev/ex1/vser.mod
